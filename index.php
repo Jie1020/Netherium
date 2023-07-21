@@ -32,9 +32,6 @@
             </div>
           </nav>
     </header>
-    <section>
-        
-    </section>
 </body>
 
 </html>
