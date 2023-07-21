@@ -1,7 +1,10 @@
 * {
 
-    background-image: url(/img/v567-mynt-doodles-01.jpg);
+    background-image: url(https://github.com/Jie1020/Neth_img/blob/main/v567-mynt-doodles-01.jpg?raw=true);
     background-position: center;
     background-size: 500px 250px;
-    background-color: grey;
+}
+
+.header{
+    background-color: black;
 }
